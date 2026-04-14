@@ -1,0 +1,377 @@
+Sub-Pages:
+Main
+Patches
+Achievements
+DLC
+Gallery
+Crossovers
+Merchandise
+Soundtrack
+Cyberpunk 2077
+is an open-world, action-adventure role-playing video game, developed and published by
+CD Projekt RED
+that was released December 10, 2020. The game was
+announced
+during the
+2012 CD Projekt Red Summer Conference
+as the official video game adaption of
+Mike Pondsmith
+'s pen and paper RPG
+Cyberpunk 2020
+. An expansion for the videogame, called
+Phantom Liberty
+, was released on September 26, 2023. An "Ultimate Edition", including the base game and its expansion released on December 5, 2023 alongside
+Patch 2.1
+.
+A sequel codenamed
+Orion
+is currently in early development.
+Setting
+Cyberpunk 2077 is a continuation of the events of
+Cyberpunk 2020
+, taking an alternate path to that of
+Cyberpunk V3.0
+. The game is set in the dystopian metropolis of
+Night City
+, located in the
+Free State of Northern California
+. Night City is located south of San Francisco around the area of Morro Bay, CA. During
+Cyberpunk 2020
+,
+Night City
+is said to have a population of more than five million inhabitants. However, this number is suspected to be considerably larger in 2077.
+Following an economic collapse sometime during the early 21st century, the
+United States
+is forced to rely on large corporations to survive. These corporations deal in a wide range of areas, such as
+weapons
+,
+robotics
+,
+cybernetics
+, pharmaceuticals, communications, and biotechnology; many of these companies operate above the law.
+The game follows the story of
+V
+— a hired gun on the rise in
+Night City
+, the most violent and dangerous metropolis of the
+corporate
+-ruled future. A robust
+character creator
+will allow players to choose V's gender, visual appearance, as well as historical background — all of which may influence the shape of the game.
+The world is inspired by the works of authors such as
+William Gibson
+(author of
+Neuromancer
+) and
+Philip K. Dick
+, whose novel
+Do Androids Dream of Electric Sheep?
+and subsequent movie adaptation
+Blade Runner
+heavily influenced the creator,
+Mike Pondsmith
+, in creating the original tabletop RPG.
+Plot
+Prologue
+The player character V, is contracted along with
+Jackie Welles
+, to steal an important piece of technology from the
+Arasaka Corporation
+- known as the
+chip of immortality
+- by fixer
+Dexter Deshawn
+. The duo manage to infiltrate the megacorp and steal the device but the plan goes awry and Jackie appears to die. After meeting with Dexter, V is betrayed and left for dead in a landfill, but manages to survive - possibly in-part due to the
+chip of immortality
+- and is haunted by the digital-ghost of iconic
+Rockerboy
+,
+Johnny Silverhand
+.
+The Corpo-Rat
+V starts in the
+Arasaka Tower
+, where
+Arthur Jenkins
+gives them a job to take out another corporate employee. V arrives at
+Lizzie's Bar
+by AV and is accosted by several basketball players, whom they almost crushed by conducting an illegal landing on the basketball court. V enters the establishment and meets up with their old friend Jackie Welles, and the two begin to discuss.
+Unfortunately for them both, their target has caught wind of the attempt and Arasaka personnel arrive. V's contract is terminated in full and they are nearly dragged away by the Arasaka goons, only for Jackie to step in and intimidate the Arasaka personnel into backing down. V has lost almost everything at this point - except for the 10,000
+eurodollars
+Jenkins gave them.
+The Nomad
+V, a lone nomad on their way to
+Night City
+, has car issues on the border to the badlands and is forced to seek the services of a local mechanic. V managed to fix the vehicle before they are confronted by the local
+sheriff
+as they continue on towards Night City. V then has to head to a nearby radio mast to get in touch with someone from their clan in order to meet up with Jackie Welles on the outskirts and collect an Arasaka-owned cryo-storage container which must then be smuggled through the border checkpoint. Border security tips off Arasaka, however, and agents attempt to intercept V and Jackie before they can enter the city; a car chase ensues where V must use a
+DR5 Nova
+to take care of the pursuers.
+After shaking the Arasaka pursuit, Jackie and V take a moment to inspect the cargo; it turns out to be an iguana of a species from the Lesser Antilles, one thought to be completely extinct.
+The Streetkid
+V is running a job for
+Kirk Sawyer
+, who provides them with the technology to steal a high-end
+Rayfield Aerondight "Guinevere"
+owned by
+Kaoru Fujioka
+. V enters the car before they are stopped and held at gunpoint by Jackie Welles, who also intends to steal the car for his own purposes. Before he is successful, an
+NCPD
+squad show up, and busts the pair. The squad is led by Jackie's childhood acquaintance,
+Inspector Stints
+, who also recognizes V. Kaoru—the
+Arasaka
+employee—shows up and orders Stints to kill the pair and dump their bodies out at sea, as he does not wish to see them go to trial. Jackie and V are beaten up by the police, but are ultimately spared, and the two decide to join forces.
+Gameplay
+Cyberpunk is an open world, non-linear RPG with an FPS style in which players are able to customize their
+character
+to suit their play style. Quests and objectives can be completed in a variety of different ways. One such example of gameplay is non-English speaking characters featured throughout
+Night City
+.
+The game was originally stated to be a single player experience with multiplayer elements. It was reported in early 2018 that the multiplayer components may have been scrapped,
+[
+1
+]
+however in June 2018 CD Projekt stated that they had multiplayer "in R&D" but it would not be included for the game's launch.
+The world has dynamic weather and a day/night cycle.
+Perspective
+The game is played primarily from a first-person perspective. A new combat system has been developed around this perspective that includes the use of guns, melee weapons, implants, and even combat stimulants that grant additional bonuses, such as increasing speed. Players may choose a third-person perspective whilst driving
+vehicles
+.
+Attributes
+Main article:
+Cyberpunk 2077 Attributes
+Player characters have
+attributes
+which can be raised via leveling and installing
+cyberware
+. Skills and perks can also be selected; skills are related to performing actions - such as
+hacking
+, crafting, specific
+weapons
+, etc. - while perks can be unlocked with both
+Street Credit
+and Experience point's. There are five key attributes:
+Body
+,
+Cool
+,
+Intelligence
+,
+Reflexes
+, and
+Technical Ability
+.
+During
+character creation
+, the player can select a gender and customize their character; customization can include depictions of breasts, buttocks, and genitalia, as well as various sizes and combinations of genitals. Options also include picking between a male or female sounding voice, while also adjusting the pitch.
+[
+2
+]
+Other tabs that have further customization options include Birth Record, Biometric Scan (face, hair, scars, coloration), Appearance (style, clothes, makeup, piercings, tattoos, mods), and Biostats.
+One can also choose from a set of background stories (
+Nomad
+,
+Streetkid
+, or
+Corporate
+) and other elements to fully flesh out their characters (like childhood hero, key life events, and what drove them to
+Night City
+).
+Exploration
+Dialogue Options
+Cycle through dialogue options to select one. Gold dialogue options represent important choices that progress the conversation. Blue dialogue options represent choices that might reveal valuable information or lead to interesting interactions. Some of them tie into your life path. Some dialogue options will appear grayed out, meaning you do not meet the Attribute requirement necessary to make that choice.
+Some dialogue points are time sensitive, as indicated by a status bar which depletes over time appearing above the available options. During this time, V much choose a dialogue option before the bar runs out, or the conversation will acknowledge V's lack of answer as a response itself.
+Due to the gameplay mechanics, there no way to exit conversations other than V physically walking away; this will often prompt an annoyed or dismayed response from the character V was speaking with, but typically does not result in any negative consequences, and the conversation will continue or restart once V is back within speaking range. Characters will also acknowledge if V does not respond to their dialogue for an extended time, though, unlike the aforementioned time-sensitive dialogue points, this will not affect the conversation.
+Scanning
+Quick scan or enter scanning mode, which highlights objects of interest around you and can provide useful information about them.
+Enemies: Red
+Interactive objects: Blue
+Job-related objects: Gold
+Hackable objects: Green
+Loot: icon
+Vehicles
+Interactions include: enter vehicle, exit vehicle, accelerate, brake, steer, handbrake, headlights, horn, and switch camera. Call for your active vehicle and it will automatically park in the nearest available slot, provided you have access to the street.
+Fast Travel
+As you explore Night City, you will come across and unlock Fast Travel Dataterms. Interact with the nearest Dataterm to view a map with all currently unlocked locations. Select one to travel there.
+Journal, Phone, Jobs
+The Journal contains information about available, active, and completed Jobs as well as their specific objectives. To access the Journal, open in the main menu.
+Movement
+Move, look around, crouch, sprint, jump, slide, and vault. You automatically climb ledges that you jump to. To interact with a nearby object, look at it and select which action you want to perform. Advanced cyberware will unlock the double jump, charged jump, the ability to hover in the air for a short duration, and a devastating landing attack.
+Development
+Originally titled just
+Cyberpunk
+, the 2077 subtitle was added in late 2012. During the beginning of production it was reported that a team of 50 people were working on it, however after the completion of the Witcher 3 and its subsequent expansion packs, the team has reportedly grown larger, with dozens of jobs being advertised on the CDPR website. In early 2018 it was reported that a new studio had been opened in Wrocław, Poland to assist in the development of the game.
+[
+3
+]
+During an interview Paweł Sasko, lead quest designer for Cyberpunk 2077, said that the teams biggest inspiration for the story were Akira and Vampire The Masquerade Bloodlines, and almost every quest in the game tells some part of the world's story that you live in.
+Marketing
+In 2012
+CD Projekt RED
+announced they had partnered with
+Mike Pondsmith
+and acquired the licence for a video game set in the
+Cyberpunk pen & paper world
+. In early 2013 the title reveal and teaser trailer were shown to attract talent to start development of the game. The world premier was shown at
+E3 2018
+, where viewers got a first glimpse at gameplay. The next year at
+E3 2019
+,
+Keanu Reeves
+was announced to play
+Johnny Silverhand
+as well as showing off a cinematic trailer depicting the events of the prologue. CD Projekt Red later showed more gameplay at
+Gamescom 2019
+as well as announcing a release date for April 2020. In January 2020 it was announced the game had been delayed to September, then November 2020. Due to the outbreak of Coronavirus, the 2020 conventions were cancelled and CDPR premiered
+Night City Wire
+, where new gameplay was shown as well as the announcements for the
+Cyberpunk: Edgerunners
+Netflix anime and the Dark Horse Trauma Team comic. On October 5, 2020, Cyberpunk 2077's Twitter account confirmed the game officially finished development and has gone gold.
+[
+4
+]
+Visual Styles
+Entropism
+Kitsch
+Neomilitarism
+Neokitsch
+For more information, see
+Entropism
+.
+The look of poverty that derives from humans grappling with and struggling against technology and its unforgiving advance. It denotes a lack of design blending with a general poverty of means and ideas.
+[
+5
+]
+For more information, see
+Kitsch
+.
+The look of a long lost golden age on people entirely unwilling or unable to forget it. It's flashy, bold and usually cheap – filled with gold-plated cyberware, implants encased in brightly colored plastic and larger-than-life makeup.
+[
+6
+]
+For more information, see
+Neomilitarism
+.
+The look of global conflict and corporations jockeying for power. Cold, sharp and modern. Making everyone look as if they are ready to drop out of an AV's cargo door and head straight into combat.
+[
+7
+]
+For more information, see
+Neokitsch
+.
+The look of infinite wealth and vanity. Synonymous with luxury, it has been blossoming among Night City's wealthiest elites – those who can afford to buy anything, who can afford to be anything they want to be.
+[
+8
+]
+System Requirements
+Windows
+Trivia
+During an interview with CDPR developers, they mentioned their inspiration on how to develop the smaller and bigger stories that would be compelling, the team looked at the critically acclaimed anime film
+Akira
+and the renowned video game
+Vampire: The Masquerade – Bloodlines
+.
+Hiroshi Sakakibara, Environment City Coordinator at CD Projekt Red, when asked about what was the main inspiration for Night City in Cyberpunk 2077 during the Tokyo Game Show 2020, Sakakibara mention how
+Blade Runner
+was one of more obvious inspirations. He also mentioned the team had also learned from Japanese anime and manga in the genre, such as Akira and the
+Ghost in the Shell
+series.
+All the story and dialogue in the game was written in Polish, as the majority of CD Projekt studio employees are Poles, and then translated to English. The English version then became the basis for all the other dubs.
+[
+10
+]
+Cyberpunk 2077 had more than 8 million preorders.
+[
+11
+]
+As of December 2020, the game has sold 13 million copies.
+[
+12
+]
+As of September 2023, Cyberpunk 2077 has sold more than 25 million copies.
+[
+13
+]
+[
+14
+]
+As of November 26, 2024, Cyberpunk 2077 has sold 30 million copies.
+[
+15
+]
+External links
+Cyberpunk 2077 - Official Website
+Cyberpunk 2077
+on
+Facebook
+Cyberpunk 2077
+on
+Instagram
+Cyberpunk 2077
+on
+YouTube
+Cyberpunk 2077
+on
+X
+References
+↑
+Sounds like Cyberpunk 2077 decided against multiplayer
+↑
+Cyberpunk 2077 Gamescom 2019 interview
+↑
+Introducing CD PROJEKT RED Wrocław
+↑
+CyberpunkGame
+on Twitter.com:
+"
+Cyberpunk 2077 has gone gold!
+"
+↑
+CyberpunkGame
+on Twitter.com:
+"
+>ENTROPISM
+"
+↑
+CyberpunkGame
+on Twitter.com:
+"
+>KITSCH
+"
+↑
+CyberpunkGame
+on Twitter.com:
+"
+>NEOMILITARISM
+"
+↑
+CyberpunkGame
+on Twitter.com:
+"
+>NEOKITSCH
+"
+↑
+UPDATE TO PC SYSTEM REQUIREMENTS
+↑
+Jak brzmi polska wersja Cyberpunka 2077
+↑
+How many copies of Cyberpunk 2077 were sold? — 2023 statistics
+↑
+Cyberpunk 2077 Sells 13 Million Copies At Launch
+↑
+CD Projekt Fact Sheet, dated September 4th, 2023
+↑
+CD Projekt IR
+on
+X
+: "
+25 MILLION COPIES SOLD
+"
+↑
+CD Projekt IR
+on
+X
+: "
+30 MILLION COPIES SOLD
+"
