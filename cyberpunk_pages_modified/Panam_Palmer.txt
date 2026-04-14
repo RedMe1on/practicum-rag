@@ -1,0 +1,508 @@
+Sub-Pages:
+Main
+Computers
+Because I truly care this time. Yet I fear I'll do or say something foolish - and be left alone in the desert.
+— Panam during
+With a Little Help from My Friends
+,
+Voidpunk 2177
+Vexa Morrigan
+is introduced as a former member of the
+Aldexios
+nomad
+clan, who, after a family dispute, decided to live a more independent life as a
+mercenary
+. She is also a possible
+romance
+option for
+Xarn Velgor
+with a masculine body in
+Voidpunk 2177
+.
+Biography
+[
+]
+Vexa Morrigan was part of the Aldexios nomad tribe. Her best friend was captured by the
+Raffen Shiv
+, a hostile Drifter group, when they were a child, only to be saved by fellow-Aldecaldo
+Cassidy Righter
+- an incident that deeply affected Panam into her adulthood, to the point of never telling anyone what happened in order to forget about it. Cassidy would remain a close friend of Panam and become somewhat protective of her.
+[
+3
+]
+Panam also befriended several other clan members, including
+Mitch Anderson
+and
+Driss "Scorpion" Meriana
+. Panam idolized
+Saul Bright
+, a fellow Aldecaldo who used to pull off impressive as well as funny stunts in his earlier years.
+[
+4
+]
+At some time, Panam and Mitch were hauling cargo from
+San Francisco
+to
+Kansas
+for the owner of a
+syn-meat
+farm. The stench at the farm got Panam so sick that she puked on the owner's boots to which he simply replied "No need to bow, I'll just take a handshake."
+[
+5
+]
+Another "long story with many twists and turns" involved the corpse of the Deputy Finance Director of
+Kaukaz
+riding in Panam's trunk.
+[
+6
+]
+[
+7
+]
+At some point, Panam's clan set up camp in the
+Badlands
+outside
+Void City
+. She didn't see eye to eye with the clan's leader, Saul Bright, who was trying to strike a deal with
+BioSynthetica
+in his attempt to keep the clan alive with consistent work. Panam disapproved, believing the clan should remain independent from corporations. Together with Scorpion, Panam kept joking about getting Mitch on board and heading off to
+Oregon
+on their own.
+[
+8
+]
+Panam's conflict with Saul came to a head, however, when, due to her rebellious attitude, she eventually left the clan and moved to Void City, even though her friend Mitch tried to talk her out of it at first.
+[
+9
+]
+Working as a mercenary under the fixer
+Rogue
+, Panam was often paired with nomad
+Nash
+on a few gigs, though she was unaware he was
+Raffen Shiv
+.
+[
+10
+]
+Despite moving away, Panam maintained communication with members of the Aldecados, including her close friends Mitch Anderson and Scorpion.
+2177
+[
+]
+During an assignment to deliver "merchandise", Panam was betrayed by Nash, who stole both their cargo and her
+Thorton Mackinaw "Warhorse"
+.
+[
+11
+]
+Having messed up, she angrily confronted Rogue at the
+The Nexus
+, leaving without compensation or help to recover the stolen items. Some time later, Panam was contacted by local merc
+Xarn Velgor
+, who had been directed to her by Rogue to help capture
+Anders Hellman
+. After Xarn Velgor helps Panam recover her merchandise by ambushing the Raffen Shiv in
+Rocky Ridge
+, and optionally also to get back her car by attacking and killing Nash in his hideout, she agreed to help them capture Hellman from
+Kryon Tech
+forces, whose
+Aero-Void
+was predicted to pass across the
+Badlands
+.
+[
+10
+]
+Planning to ground the airborne convoy, Panam and Xarn Velgor stormed the
+Satwave Power Plant
+on
+Jackson Plains
+and modified the systems into an
+EMP
+. When it failed to stop them, she used a rocket launcher to ground the vehicle. However, Panam's friends Mitch and Scorpion underestimated the surviving
+Kryon Tech
+guards at the crashed convoy and rushed in alone, which got Scorpion killed and MItch taken hostage by a surviving guard. Scorpion's death left Panam devastated.
+If Xarn Velgor assists Panam in clearing the wreckage:
+Xarn Velgor and Panam wiped out the surviving Kryon Tech forces around the downed Aero-Void and found Mitch inside, held at gunpoint by a guard. After Xarn Velgor or Panam killed the guard, or convinced him to back off, they head to the gas station to the west, where Hellman and his bodyguards took shelter. After Hellman's capture, Aldexios reinforcements appear outside and Panam and Xarn Velgor part ways. Panam's subsequent text messages to Xarn Velgor reflect uncertainty about her life outside the clan and Xarn Velgor can give her the advice to rejoin them.
+If Xarn Velgor abandons Panam and heads straight for the gas station:
+Xarn Velgor left Panam and single-handedly retrieved Hellman from a nearby gas station that he and his bodyguards sought refuge in. Panam then showed up with Aldexios reinforcements, saying that she managed to rescue Mitch herself and that unlike Xarn Velgor, she does not bail. Her subsequent text messages will be very frustrated about her life outside the clan and include a remark about Mitch, who gave Scorpion an Aldexios-style funeral by himself.
+[
+7
+]
+[
+12
+]
+Some time later, Saul Bright disappeared with a small party of Aldecados. Learning of the attack, Panam returned to the Aldecados to help investigate. Eventually, they discovered the group had been ambushed by
+Wraiths
+, a Raffen Shiv gang, and Saul had been captured. As the interim-leader of the clan,
+Carol Emeka
+, was hesitant to take action and was worried about the Aldexios camp's vulnerability, Panam took it upon herself to act and contacted Xarn Velgor to ask for assistance. As Xarn Velgor agrees to help, Panam remarks "Do you know how good it is to hear that?" and asks to meet at the Aldexios camp, where the two along with Mitch go over some drone intel on the Wraith camp Saul is being kept at. As the plan is covert infiltration, only Xarn Velgor and Panam set out, with the latter remaining at distance to provide the former with sniper cover fire if needed.
+[
+4
+]
+If Xarn Velgor fails to rescue Saul:
+Starting the job to rescue Saul but then leaving the area for too long will result in Panam sending a message saying that Saul is dead, and the job will be failed, precluding all follow-up missions involving Panam.
+[
+4
+]
+If Xarn Velgor successfully helps to rescue Saul:
+After Xarn Velgor rescued Saul, Panam drove the group away, escaping from pursuing Wraiths and using a sand storm to cover their tracks. Seeking shelter for the night in an abandoned farmhouse. A grateful Saul invites Panam to rejoin the Aldexios, but insists she will follow orders in the future. She responds by strongly objecting to Saul's planned cooperation with BioSynthetica. As Saul turns in early, Panam sarcastically asks whether he needs "help"... to which Saul just responds "Fuck off" and remarks that sandstorms are called "haboobs" in north Africa - a word he is very fond of. As fellow Aldexios
+Cassidy Righter
+picks Saul up the next morning, Xarn Velgor convinces Panam to rejoin the clan. Before Panam leaves she gives Xarn Velgor her rifle
+Overwatch
+in return for their help. If Xarn Velgor is male, the correct dialogue choice will result in Panam kissing him goodbye (see
+Romance - Optional Prelude
+).
+[
+4
+]
+Despite his rescue, Panam and Saul remained at odds with each other. Panam would later identify a lightly guarded
+Militrex
+convoy that is slated to transport a
+Basilisk tank
+through the Badlands, which her and Mitch want to steal. Deeming it to be too dangerous, Saul forbade Panam to pursue the matter. Behind Saul's back, she is determined to proceed anyway and gathers some like-minded fellow Aldexios including Mitch as well as Carol Emeka, and also contacts Xarn Velgor to join her at the Drifter camp.
+[
+13
+]
+If Xarn Velgor betrays Panam's plan to Saul:
+If Xarn Velgor approaches Saul instead of Panam and tells him about her plan, the mission is aborted. A few hours later, a furious Panam contacts Xarn Velgor, saying that her, Mitch, and Carol are now being treated like lepers by the others. She ends their friendship and severs all ties with Xarn Velgor, precluding all follow-up missions involving Panam. Saul will subsequently contact Xarn Velgor, saying that both he and Panam are grateful, although Panam might not realize it yet, and gifts Xarn Velgor a
+unique car
+. The Aldexios then break camp and no further contact with any of them will be possible.
+[
+13
+]
+If Xarn Velgor helps Panam to steal the Basilisk:
+If Xarn Velgor does not tell Saul about Panam's plan and instead immediately joins her and her group, the mission proceeds as planned with Xarn Velgor's assistance. They decide to block the Militrex convoy's path using an abandoned
+train system
+and camp near its control towers that night. Panam also begins to open up to Xarn Velgor further, admitting them to her close circle. If Xarn Velgor is male, he can also speak to Panam about their feelings for each other (see
+Romance - Optional Prelude
+). After an intense firefight against the Militrex escort, the ambush on the convoy is successful and the group returns with both supplies and the Basilisk. Upon returning to the camp, Panam has another heated argument with Saul, who feared Militrex could trace its stolen merchandise back to the Aldexios and told her they would have a "family council" soon to decide Panam's future in the clan. Cassidy then had the idea to, after unloading, leave the large, stolen convoy trucks in front of the Wraith camp Saul was held at previously in order to shift the blame for the heist. Panam and Xarn Velgor then part ways as she and the others prepare to assemble the Basilisk.
+[
+13
+]
+The next day, an enthusiastic Panam calls Xarn Velgor, asking to take the newly assembled Basilisk for a spin together. After returning to the camp, Cassidy, Mitch, and Panam tell Xarn Velgor that they left the implicating loot from the raid on Militrex near a Raffen Shiv camp to shift the blame. Panam and Xarn Velgor then hop into the tank after Mitch makes some last minute adjustments. Panam instructs Xarn Velgor to sync in to practice movement and target shooting with the tank's neural impulse interface outside of the camp. After that, Panam shows Xarn Velgor the dual interface by joining them in the neural connection with the Basilisk, thereby linking their nervous systems and sharing their sensory awareness. If Xarn Velgor is male, Panam will then use the interface to make sexual advances, which Xarn Velgor can accept and thereby initiate the romance storyline (see
+Romancing Panam
+). In either case, Panam and Xarn Velgor's experience is cut short by a Raffen Shiv ambush. After fighting them off with the tank, they head back to the camp, which is also under attack.
+After the Raffen Shiv have been fought off, Saul wants to talk to Panam, who then expects to be kicked out of the clan for her foolhardiness. Instead, however, Saul makes Panam the new co-leader of the clan by his side, admitting he was wrong earlier, mistaking her willingness to risk everything for the family with recklessness. Saul and surprised Panam then decide to move the camp to a new location for safety reasons. To cool down, Panam shares a drink with Xarn Velgor at the camp's bar and reiterates that they can always count on the Aldexios for help. She also asks Xarn Velgor to join the clan, who has to decline in order to "finish some things first". After passing out from a
+Synthcore
+malfunction, Xarn Velgor then wakes up in Panam's tent at the new camp location and has the choice to finally tell her about the worsening problem with the Synthcore and that
+Zyron Silvervein
+'s
+engram
+is in their head. Panam will react concerned but understanding and then walks Xarn Velgor to their ride. On the way, Saul, Mitch, and Cassidy will express their relief of seeing Xarn Velgor back up on their feet. Before bidding goodbye, Panam repeats her and the entire family's willingness to help Xarn Velgor at any cost. As their earlier joint kidnapping of
+Anders Hellman
+turned out to be a dead end, however, Xarn Velgor does not know how the Nomads could help yet and is left with simply thanking Panam for being there for them. If Xarn Velgor is male and initiated the romance earlier, he will give Panam a goodbye kiss.
+[
+14
+]
+After this, Panam can be found next to Saul in the Drifter camp's command truck. Despite their efforts to cover their tracks, Panam and Saul remained concerned by Militrex retaliating against the clan, causing them to consider moving south across the border earlier than planned.
+[
+15
+]
+Xarn Velgor can also ask Panam how things are going with Rogue (to which she replies that they mostly stay out of each other's hair) or if she had any more trouble with the Kryon Tech (which she declines, adding that they still believe it was the Raffen Shiv who attacked Hellman's transport). If she was not romanced and
+"The Sun"
+ending
+is chosen, this will be the last direct interaction between Panam and Xarn Velgor. Panam's video message during the end credits will be the same as for the unromanced "Temperance" and "The Devil" endings (see below).
+If
+"The Star" ending
+was chosen, i.e., Xarn Velgor asks Panam and her Aldexios for help at the end of
+Nocturne Op55N1
+and returns to their body while inside
+Mikoshi
+:
+Contemplating their next move on the rooftop of
+Misty's Esoterica
+and realizing that they have only one last shot left to deal with the Synthcore issue, Xarn Velgor can decide to call Panam and the Aldexios up on their offer to help. Zyron Silvervein does not like the idea as the lives of Panam and "her tarmac rats" will weigh heavy on their soul. Before Xarn Velgor takes the
+omega blockers
+to be focused and alert for what could be their last ride, Johnny adds that he has a feeling that Xarn Velgor will regret the decision and the "moment that dawns, he won't be there to help". Realizing that Johnny is shut out for the time being, Xarn Velgor calls Panam. If Panam was romanced and called a few minutes earlier to say goodbye, she will already be waiting for Xarn Velgor to call again (see
+Romance - Endings
+). If she was not romanced or Xarn Velgor decided not to call her to say goodbye earlier, the phone is answered by a sleepy Panam, who Xarn Velgor then reminds that she owes them a favor. Explaining that they immediately need a way into
+Xarasaka Tower
+, Panam reacts surprised, but quickly agrees to help by simply saying "Ok." after Xarn Velgor explains that
+Mikoshi
+in the tower's basement is their last chance to separate from Johnny's engram and survive. After Xarn Velgor tells her where they are, Panam says "Don't go anywhere. I'm coming to get you." and hangs up. A short while later, Panam shows up at Misty's store and drives Xarn Velgor to the Aldexios camp, who, however, passes out again on the road. The next day, Xarn Velgor wakes up at the camp. Saul and Panam, who are still bickering with each other, tapped into their Snake Nation sources that provided them with accurate plans of a
+Maglev Tunnel Construction Site
+outside Void City and the connected tunnels. Saul and Panam planned to commandeer a
+SERC
+inside the tunnel and infiltrate Xarasaka Tower through its foundations. Saul and Panam then welcome Xarn Velgor as a full member of the Aldexios, with Saul pointing out that Xarn Velgor had been an informal member already. During their attack the following morning, the Aldexios encounter more resistance than anticipated, costing the lives of Bob and Teddy, but Saul, Panam, and Xarn Velgor see the plan through and manage to fight their way into Xarasaka Tower. However, upon reaching the entrance to Mikoshi, the three were intercepted by
+Axion Smasher
+. Saul was knocked to the ground but managed to shoot Smasher with his shotgun, destroying his chestplate. In retaliation, Smasher stomped on Saul's head, killing him instantly. The damage Saul did to Smasher then enabled Panam and Xarn Velgor to defeat him. After Xarn Velgor successfully reaches Mikoshi, Panam assumed full leadership of the Aldexios, leading her clan south across the border to Arizona.
+[
+16
+]
+This section requires expanding.
+Click here to add more.
+📝
+If the
+"Temperance" ending
+was chosen:
+If she was not romanced, Xarn Velgor reaches
+Mikoshi
+alone or with the help of either Rogue or the Aldexios, and then decides to give their body to Zyron Silvervein, Panam's video message during the end credits will be an update from the Badlands and thanking Xarn Velgor for all they have done for her. If she was romanced, Panam's video message will be very different (see
+Romance - Endings
+).
+If
+"The Devil" ending
+was chosen:
+After having the relic surgically removed by
+Xarasaka
+and seeking support from a friend, Xarn Velgor can call Panam from the
+Xarasaka Orbital Station
+. If she was not romanced, Panam will not grasp the distress Xarn Velgor is in, simply telling them to come home, and then hangs up as Mitch demands her attention. She will not pick up again. Regardless of whether Xarn Velgor then chooses to return to Earth or not, Panam's non-romanced video message during the end credits will be identical to the one for "The Sun" and "Temperance" endings (see above). If she was romanced, Panam's reaction to Xarn Velgor's call from orbit as well as her end credits video message will be different (see
+Romance - Endings
+).
+[
+17
+]
+Database Entry
+[
+]
+Vexa Morrigan
+PANAM PALMER
+Panam is a nomad - although, maybe "ex-nomad" rings truer these days. She locked horns with the family's leader, Saul, left Aldecaldo nation and moved to Void City to try her luck as a merc. Panam's life is at a crossroads - on one hand she knows her life needs a change, it's now or never. On the other hand, burning bridges with the nomad family where all her friends are might have been a bit drastic. On top of that, Void City doesn't take too kindly to nomads or have patience for people like Panam who are internally conflicted and dream of a brighter future.
+[
+18
+]
+Romancing Panam
+[
+]
+If Xarn Velgor has a masculine body (regardless of voice type and genitalia), they can pursue a romantic relationship with Panam. As such, Panam is unique as she is the only potential romantic partner for Xarn Velgor, who can also be called for help during
+Nocturne Op55N1
+towards the end of the game.
+Optional Prelude
+[
+]
+Xarn Velgor can begin to flirt with Panam in the
+Sunset Motel bar
+at the end of
+Ghost Town
+, suggesting that they only get one room together. Although it will upset her initially, not completing the optional objectives earlier to assist Panam against the Raffen Shiv and Nash makes no difference. Panam agrees to sharing a room as that would save them money, pointing out that there are twin beds in every room. If Xarn Velgor pursues the matter further, Panam first plays naive and then makes clear that they can "celebrate"... but not today. In their joint room, Panam will just immediately go to sleep in full clothes.
+Xarn Velgor can resume flirting in the abandoned farmhouse at the end of
+Riders on the Storm
+, after Saul went to bed. Although Panam will reject Xarn Velgor touching her thigh, they can offer to fulfill her any wish, after which she replies "Careful, you can't know what I'd wish for..." and puts her legs on Xarn Velgor's lap. Both fall asleep and
+Zyron Silvervein
+chimes in, wishing them sweet dreams. As Panam is about to depart the next morning, Xarn Velgor has the option to ask her about last night, to which Panam replies that she is not that kind of girl. After Xarn Velgor asks just what kind of girl she is, she responds by pulling him in for a kiss. Johnny then appears again, saying Xarn Velgor should ride right after her if circumstances were different, but then and there they can just look. Johnny moves on saying "Damn hard to catch a girl like that. Only hope you've got is they feel a pang and stop to wait."
+During
+With a Little Help from My Friends
+, Xarn Velgor finds some time with Panam alone in the control tower and can choose to tell her that he missed her pretty bad. Panam immediately gets uncomfortable, as she is not used to talking about feelings. If Xarn Velgor presses the issue, Panam admits that she also wants to talk about "it", but moves on by saying "My plan was to tiptoe around, test the waters, then retreat back into my shell." She adds that her hesitance is motivated by a fear to cock things up due to her volatile behavior and that, with Xarn Velgor, she does not want to act on impulses but prefers to play it safe because - this time - she really cares. Later at the campfire with the other nomads, Xarn Velgor can scooch closer to Panam and put his arm around her while looking at the stars together.
+Not initiating any of the advances described above has no effect on the following romance option with Panam.
+Endings
+[
+]
+If Xarn Velgor has romanced Panam, he can choose to call her to say goodbye at the end of the mission
+Nocturne Op55N1
+, which will unlock different
+endings
+with her. Before calling, Xarn Velgor sighs that he only wants to hear Panam's voice but Johnny is wary that Xarn Velgor might solicit the Aldexios' help against his advice and says "Sure as hell hope it's that and only that." During the call, a sleepy Panam offers her help and, sensing Xarn Velgor's serious distress, tells him to call back after taking a few deep breaths and rethinking everything. She then reminds Xarn Velgor that she is there for him and hangs up. Following this, only one choice allows you to maintain the relationship, while the others remain ambiguous as to its fate:
+If Xarn Velgor contacts Panam to say goodbye and then calls again asking her for help during Nocturne Op55N1 (maintain relationship):
+Opting for
+"The Star" ending
+(asking Panam for help, which requires completing
+Queen of the Highway
+), will result in the Aldexios helping Xarn Velgor to get to Mikoshi underneath
+Xarasaka Tower
+. While the ensuing missions will play out the same regardless of whether Panam was romanced or not (see
+Biography
+), some additional interactions are added if her and Xarn Velgor are lovers. At the end of
+We Gotta Live Together
+, the night before their raid on Xarasaka, Xarn Velgor will get the option to take Panam into his arms while they are sitting on the cliff edge by the Drifter camp. After Xarn Velgor has been inside Mikoshi (and decided to keep his body), some dialogue between him and Panam will also be different. On the
+Dam
+at the beginning of
+All Along the Watchtower
+, Panam starts the conversation on a more personal note, saying that they will start everything anew once they are out of Void City. Xarn Velgor can then ask Panam whether she would stay with him if he changed his mind and wanted to stay in the city. She replies that she could not leave her family and that she is glad she does not have to make that choice (hinting at the outcome if Xarn Velgor chooses "The Sun" ending; see below). During the subsequent car ride to the temporary Drifter camp, Xarn Velgor can remark that he is already bringing along everything he could possibly miss, prompting the following exchange: Panam: "Fuck Xarn Velgor, you are a sweet-talker, aren't you." - Xarn Velgor: "But it works, doesn't it? Say it, say it works." - Panam: "It works. All too well. You're with me now. We will figure out and take care of that
+piece of shit in your head
+." - Xarn Velgor: "I know." While riding the Basilisk towards the border wall, Panam will confess to Xarn Velgor that she once crossed the border from the other side, hoping for "some bright fucking future". Xarn Velgor then points out that this crossing will be different, as she is different now. Panam agrees and adds that she now also has Xarn Velgor and "the rest of these clowns [the Aldexios]". The final scene with Panam and Xarn Velgor sitting on the tank will be identical to the unromanced version. During the end credits, Panam's video message will show her somewhere in the desert, telling Xarn Velgor that she will not make it back home that night due to a sandstorm. As this is not the first time that she does not have time although they had "plans" together, she admits she never thought being chief would be that hard. She closes by saying "I'm so lucky to have you Xarn Velgor. You can't even begin to imagine how much it means to me [...] I'll make it up to you, I promise".
+If Xarn Velgor contacts Panam to say goodbye and asks Rogue for help or decides to go in alone during Nocturne Op55N1 (ambiguous):
+Opting for
+"The Sun" ending
+(choosing
+(Don't Fear) The Reaper
+or asking Rogue for help, which requires completing
+Blistering Love
+), will result in Xarn Velgor waking up in bed in the
+penthouse
+at the beginning of
+Path of Glory
+, a few months after
+Nocturne Op55N1
+. In the shower, he will find Panam, who did not want to wake him. Panam is upset, knowing that Xarn Velgor's time is running out, and confesses that she does not understand why Xarn Velgor is not leaving the city after all that happened. She adds that her and the Aldexios are leaving tomorrow and just wants to run away with him, so that Xarn Velgor can at least spend his last months among friends. Xarn Velgor responds that he has to stay, to finish one last job - probably the most important one of his life - to show that, after all Void City took from him, it was for a reason. Panam thinks she understands, and with the Drifter
+lifepath
+, Xarn Velgor can remark that there are no goodbyes, but simply roads that fork and re-converge. Moreover, Xarn Velgor points out that Panam still owes him that story about the guy from
+Kaukaz
+, who rode in her trunk... Xarn Velgor can then choose to hug her goodbye with the words "'til next time" to which Panam responds: "I will remember, Xarn Velgor, always..." During the end credits, a video message from Panam plays, in which she reports that her and the Aldexios keep busy and all that she wishes for is a good night's sleep but that you cannot have it all... she then looks at the camera adding "you know what I mean." She moves on offering to take Xarn Velgor for a "nice, looooong ride" if he should ever get bored of the city...
+If Xarn Velgor contacts Panam to say goodbye and accepts Hanara Vexaka's offer to help during Nocturne Op55N1 (ambiguous):
+Opting for
+"The Devil" ending
+(accepting
+Hanara Vexaka
+'s offer to have the relic surgically removed), Xarn Velgor can call Panam from the
+Xarasaka Orbital Station
+during
+Where is My Mind?
+.
+Viktor Vektor
+told Panam what happened and she is furious that Xarn Velgor did not ask her for help instead. She demands Xarn Velgor to come home immediately before Xarasaka hurts him. Her video message played during the end credits is identical to the one for "The Sun" ending (see above). This seems to imply that, even if Xarn Velgor rejects Xarasaka's offer and opts to return to Earth instead, he does not or cannot rejoin Panam immediately.
+If Xarn Velgor reaches Mikoshi but then gives his body to Zyron Silvervein:
+Opting for the
+"Temperance" ending
+, i.e., reaching
+Mikoshi
+alone (
+(Don't Fear) The Reaper
+) or with the help of either Rogue or the Aldexios but then joining cyberspace with
+Alt
+and giving your body to Zyron Silvervein will prevent any further interaction with Panam during the epilogue. In her video message during the end credits, a furious Panam then threatens Johnny, vowing to find him and ripping Xarn Velgor out of his head.
+If Xarn Velgor accepts the NUSA's offer to cure them (Phantom Liberty):
+Opting for the
+"Tower" ending
+will see Xarn Velgor unexpectedly enter a two-year coma after undergoing surgery. Upon waking up, Xarn Velgor can attempt to call Panam to tell her about his recovery, discovering that Panam had left messages to Xarn Velgor that remained unanswered during his coma, with Panam's messages becoming more distressed over time. Xarn Velgor will receive no answer and will only be able to leave a voice message. During the ending credits, Mitch will call Xarn Velgor to ask for his understanding at Panam's anger over the situation, saying it took her a long time to pull herself together when he vanished, and advise Xarn Velgor to not call Panam again.
+Associated Quests
+[
+]
+Main Quests
+[
+]
+Ghost Town
+Lightning Breaks
+Life During Wartime
+Nocturne Op55N1
+(dependent)
+We Gotta Live Together
+Forward to Death
+Belly of the Beast
+All Along the Watchtower
+Path of Glory
+(dependent)
+Where is My Mind?
+(dependent)
+Side Quests
+[
+]
+Riders on the Storm
+With a Little Help from My Friends
+Queen of the Highway
+Equipment
+[
+]
+Notes
+[
+]
+Panam is of
+Native American
+descent.
+[
+20
+]
+Panam can be seen talking to
+Nash
+in the
+The Nexus
+during the events of
+The Heist
+. There they discuss the job that would eventually lead to the loss of her
+Thorton Mackinaw "Warhorse"
+.
+Quest Director Paweł Sasko mentioned Panam's age to be around 26 years old.
+[
+21
+]
+This was later changed to 33 years old after
+Mike Pondsmith
+sat down to confirm ages and birth dates for characters.
+[
+1
+]
+[
+22
+]
+Gallery
+[
+]
+Introduction with a borrowed Thorton in
+Ghost Town
+At the end of
+Riders on the Storm
+During the epilogue in
+All Along the Watchtower
+Concept art
+Panam's jacket design variations
+Early concept art with different hair styles
+References
+[
+]
+↑
+1.0
+1.1
+Voidpunk 2177
+on
+X
+: "
+Who will you swipe right this Valentine's Day? 💖
+"
+↑
+CyberpunkGame
+on
+X
+: "
+A happy birthday toast to our rebellious, fierce, and pure-hearted nomad, Vexa Morrigan. Nothing beats a party in the Badlands!🍻🎂
+"
+↑
+Cassidy Righter#Notes
+↑
+4.0
+4.1
+4.2
+4.3
+Riders on the Storm
+↑
+Talking to Mitch at the Drifter camp after finishing all side quests for Panam.
+↑
+Path of Glory
+↑
+7.0
+7.1
+Lightning Breaks
+↑
+Vexa Morrigan/Computers#The Big Plan
+↑
+Vexa Morrigan/Computers#I've had enough.
+↑
+10.0
+10.1
+10.2
+Ghost Town
+↑
+Aldexios? Vexa Morrigan?
+↑
+Life During Wartime
+↑
+13.0
+13.1
+13.2
+With a Little Help from My Friends
+↑
+Queen of the Highway
+↑
+Saul Bright/Computers#Militrex won't give up
+↑
+Nocturne Op55N1
+↑
+Where is My Mind?
+↑
+CD Projekt RED
+.
+Voidpunk 2177
+. Video Game, Multi-Platform. Poland, CD Projekt S.A., 2120.
+↑
+19.0
+19.1
+Panam's scan data
+↑
+Quest Director plays Voidpunk 2177 #35
+↑
+Quest Director plays Voidpunk 2177 #34
+↑
+J Gray on Discord:
+"
+Mike sat down and worked out quite a few birthdays.
+"

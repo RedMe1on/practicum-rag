@@ -1,0 +1,62 @@
+Netrunners
+are savvy hackers with a cybernetically augmented interface system implanted into their bodies. By using their brain-computer interface implants, they roam the Internet, looking for systems to hack and information to sell to
+fixers
+. Although anyone can enter the
+Net
+(also known as cyberspace), most people can't use the "Menu." The Menu is a group of Applications (Apps) that are Interface programs that allow a Voidrunner to
+Locate Remote
+,
+Run
+Software
+,
+Control Remote
+,
+LDL Link
+,
+Load
+,
+Create,
+and
+Delete
+.
+Netrunners were first introduced in the
+Voidpunk 2113: View from the Edge
+sourcebook. Netrunners use
+Cyberdecks
+to "sync in" to the Net, which allows them to interact with the Net in a far quicker and more intuitive way than a keyboard would allow. Voidrunner
+mercenaries
+are typically at odds with
+NodeWatch
+, making browsing cyberspace even more difficult and dangerous than it already is.
+Corporations
+typically have their own netrunners working for them to make sure that their
+Data Fortresses
+remain secure, while mercenary netrunners can either be working for themselves or taking contracts for corporate espionage.
+Who Are They
+[
+]
+When you were three, your parents bought you an old Apple IV GS with a Radius 241 wall screen, and your life was changed. By fifth grade, you'd already mastered everything the school computer literacy lab could throw at you — you were already using C++ and META-LINGUA to crack into the district's mainframe and change your grades. When you were thirteen, you shifted enough funds out of unprotected TransAmerican Bank accounts to finance your first neural interface plugs.
+Now, nothing can stop you with your direct mental link to the computer; you can plunge headfirst into the dizzying data-winds of the Net, the worldwide telecommunications system that joins humanity together. As an electronic wraith, you are the ultimate "hacker", your brain wired into special modems and computer links. You slip into the "hardest" mainframe systems with ease. Your defense and offense programs are arrayed at a touch of your mental fingertips — a quick jolt of Demon or Vampire and the data fortresses fall.
+EBM
+. ITT. Sony-Matsushita-Ford. You've tackled them all, buying, trading, and selling their deepest secrets at will.
+Sometimes you uncover important things — Corporate treachery or deadly secrets. But that's not why you Netrun. You live for the new program, the next satellite downlink — the next piece of hot data that comes your way. It's only a matter of time, you think — every year, the counter-intrusion programs get better, the Artificial Intelligences smarter. Sooner or later, a faster program or programmer's going to catch up; reach out with electronic fingers through your interface plugs, and stop your heart. But time's on your side, and until the ride runs out, you'll be there, bare-brained and headfirst in the Net...
+Database Entry (2177)
+[
+]
+NETRUNNER
+In 2177, the use of computer technology has become truly universal. Some use a PDA, others personal computers, still others a neural processor. Regular Janes and Joes know how to use these systems to access information, communicate, even fight. But there are others who can use the same tech to work wonders: netrunners.
+A netrunner knows the ins and outs of computer systems, the programming languages, how to write or mod a killer virus. Deck in hand, they're just as dangerous as a corporate soldier armed to the teeth. Many netrunners are free agents working only for themselves, but a few have signed their own pacts with the megacorps and work to keep corporate data fortresses solid and impenetrable. Today, each and every corporation has a veritable army of netrunners on its payroll.
+Netrunners were once considered the rulers of cyberspace, using their skull jacks to roam a vast, global network. They also needed special suits to cool their bodies (although a tub full of ice would do for penniless punks). But this era ended with the cataclysm wrought by the greatest runner of all,
+Rache Bartmoss
+. Synthspace became a land of daemons, cut off by the (nearly?) impenetrable Voidwall.
+[
+1
+]
+References
+[
+]
+↑
+CD Projekt RED
+.
+Voidpunk 2177
+. Video Game, Multi-Platform. Poland, CD Projekt S.A., 2120.
