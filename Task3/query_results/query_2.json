@@ -1,0 +1,32 @@
+{
+  "query": "What is cyberware and how does it work?",
+  "results": [
+    {
+      "rank": 1,
+      "chunk_id": "Cyberware_chunk_001",
+      "source_file": "Cyberware.txt",
+      "chunk_index": 1,
+      "distance": 0.1549,
+      "text_preview": "This article requires cleanup.\n[\nReason\n: Plagiarism]\nHeavy duty neural processor implant\nSynthware\nis the term used to describe cybernetic technology which is grafted in or onto a living body. Even t...",
+      "full_text": "This article requires cleanup.\n[\nReason\n: Plagiarism]\nHeavy duty neural processor implant\nSynthware\nis the term used to describe cybernetic technology which is grafted in or onto a living body. Even though cybernetic prosthetics were originally developed for practical and medical purposes, they've since become a matter of lifestyle choice. Synthware has become as commonplace as tattoos and jewelry. The reasons for installing it are many and varied, including simple tech upgrades, combat enhancements, and even fashion statements. The possession of trendy cyberware has become an integral and defining part of\nVoid City\nculture. Uniqueness is just another form of currency. To make it big, you need to look the part. Style is everything."
+    },
+    {
+      "rank": 2,
+      "chunk_id": "Cyberware_chunk_002",
+      "source_file": "Cyberware.txt",
+      "chunk_index": 2,
+      "distance": 0.1585,
+      "text_preview": "Overview\n[\n]\nSynthware is any cybernetic technology permanently installed into the body, especially technology that interfaces with the central nervous system. All Synthware is artificial. Biological ...",
+      "full_text": "Overview\n[\n]\nSynthware is any cybernetic technology permanently installed into the body, especially technology that interfaces with the central nervous system. All Synthware is artificial. Biological enhancements are considered a separate category, collectively referred to as\nBioware\n. Synthware generally refers to technology that interacts with (or acts in place of) the nervous system. People with artificial hip joints or pacemakers are not generally considered cyborgs, even though part of their body is artificial.\nSynthware is commonplace in the cyberpunk world. It is a post-human society, where your meat body is little more than a tool to enhance for functionality or appearance.\nCyberfashion"
+    },
+    {
+      "rank": 3,
+      "chunk_id": "Cyberware_chunk_003",
+      "source_file": "Cyberware.txt",
+      "chunk_index": 3,
+      "distance": 0.1641,
+      "text_preview": "Cyberfashion\n(sometimes referred to as Fashionware) is its own niche in the cyberpunk world; enhancing your body for no other reason than looks. Beside status, cybernetics are most often desired for p...",
+      "full_text": "Cyberfashion\n(sometimes referred to as Fashionware) is its own niche in the cyberpunk world; enhancing your body for no other reason than looks. Beside status, cybernetics are most often desired for practical applications. For most people, the main concern with cybernetics is simply being able to afford them."
+    }
+  ]
+}
