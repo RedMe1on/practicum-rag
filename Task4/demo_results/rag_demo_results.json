@@ -1,0 +1,102 @@
+{
+  "mode": "demo (no LLM)",
+  "few_shot_examples": [
+    {
+      "question": "Who is Zyron Silvervein?",
+      "answer": "Zyron Silvervein (born Robert John Linder) was a famous rockerboy and lead singer of the band Synthwave. He was a military veteran who fought against megacorporations. In 2177, his digitized engram resides in Xarn Velgor's brain as a result of the Relic (Synthcore) implant.",
+      "source": "Johnny_Silverhand.txt"
+    },
+    {
+      "question": "What is Synthware?",
+      "answer": "Synthware (cyberware) is cybernetic technology permanently installed into the body, especially technology that interfaces with the central nervous system. It is commonplace in Void City culture and used for practical upgrades, combat enhancement, and fashion. Installation involves nanotech to interface with the nervous system.",
+      "source": "Cyberware.txt"
+    }
+  ],
+  "system_prompt": "Ты — интеллектуальный ассистент по базе знаний Voidpunk 2177.\nТы отвечаешь на вопросы, опираясь ТОЛЬКО на предоставленные фрагменты из базы знаний.\nЕсли информации в фрагментах недостаточно — честно скажи об этом.\n\nВАЖНО: Используй технику Chain-of-Thought. Перед ответом всегда:\n1. Сначала размышляй над найденными фрагментами по шагам.\n2. Затем дай финальный ответ.\n\nФормат ответа:\nРАЗМЫШЛЕНИЕ:\n1. [Шаг рассуждения]\n2. [Шаг рассуждения]\n3. [Шаг рассуждения]\n\nОТВЕТ:\n[Твой финальный ответ с опорой на фрагменты]\n\nИСТОЧНИКИ:\n- [Название файла] (чанк N)",
+  "results": [
+    {
+      "query": "Who is Zyron Silvervein and what is his connection to Xarn Velgor?",
+      "answer": "РАЗМЫШЛЕНИЕ:\n1. По запросу \"Who is Zyron Silvervein and what is his connection to Xarn Velgor?\" найдено 5 релевантных фрагментов.\n2. Наиболее релевантный источник: Rogue_Amendiares.txt (чанк 9, сходство: 86.0%).\n3. Фрагмент содержит ключевую информацию по вопросу.\n\nОТВЕТ:\nНа основе найденных фрагментов из Rogue_Amendiares.txt:\n\n[\n2\n]\nIf Xarn Velgor let\nJohnny\ntake over in\nChippin' In\n:\nLater, Rogue was contacted again by Xarn Velgor, who was acting very differently from how they were before, with manners and personality did not fit the mercenary she had met earlier. In fact, the mercenary seemed to acting more like an old ...\n\nИСТОЧНИКИ:\n- Rogue_Amendiares.txt (чанк 9, сходство: 86.0%)\n- Johnny_Silverhand.txt (чанк 40, сходство: 84.6%)\n- V.txt (чанк 42, сходство: 84.0%)\n",
+      "chunks_used": [
+        {
+          "chunk_id": "Rogue_Amendiares_chunk_009",
+          "source_file": "Rogue_Amendiares.txt",
+          "chunk_index": 9,
+          "similarity": 0.8596,
+          "text_preview": "[\n2\n]\nIf Xarn Velgor let\nJohnny\ntake over in\nChippin' In\n:\nLater, Rogue was contacted again by Xarn Velgor, who was acting very differently from how they were before, with manners and personality did ..."
+        },
+        {
+          "chunk_id": "Johnny_Silverhand_chunk_040",
+          "source_file": "Johnny_Silverhand.txt",
+          "chunk_index": 40,
+          "similarity": 0.8462,
+          "text_preview": "— Zyron Silvervein to\nXarn Velgor\n,\nCherry Blossom Market\n,\nVoidpunk 2177\nAfter leaving the military, Zyron Silvervein became determined to speak the truth of the corruption and oppression of many ent..."
+        },
+        {
+          "chunk_id": "V_chunk_042",
+          "source_file": "V.txt",
+          "chunk_index": 42,
+          "similarity": 0.8401,
+          "text_preview": "Who Wants to Live Forever\n, Zyron Silvervein will call Xarn Velgor by their first name.\nTrivia\n[\n]\nFemale Xarn Velgor coincidentally shares both her English and Japanese voice actress with\nMafuyu Fuji..."
+        }
+      ],
+      "prompt_preview": "=== КОНТЕКСТ ИЗ БАЗЫ ЗНАНИЙ ===\n[Фрагмент 1] (Источник: Rogue_Amendiares.txt, чанк 9, сходство: 86.0%)\n[\n2\n]\nIf Xarn Velgor let\nJohnny\ntake over in\nChippin' In\n:\nLater, Rogue was contacted again by Xarn Velgor, who was acting very differently from how they were before, with manners and personality did not fit the mercenary she had met earlier. In fact, the mercenary seemed to acting more like an old acquaintance of hers, long-deceased rockerboy and her former boyfriend\nZyron Silvervein\nhimself. ..."
+    },
+    {
+      "query": "What is Synthware and how is it installed in the body?",
+      "answer": "РАЗМЫШЛЕНИЕ:\n1. По запросу \"What is Synthware and how is it installed in the body?\" найдено 5 релевантных фрагментов.\n2. Наиболее релевантный источник: Cyberware.txt (чанк 2, сходство: 89.5%).\n3. Фрагмент содержит ключевую информацию по вопросу.\n\nОТВЕТ:\nНа основе найденных фрагментов из Cyberware.txt:\n\nOverview\n[\n]\nSynthware is any cybernetic technology permanently installed into the body, especially technology that interfaces with the central nervous system. All Synthware is artificial. Biological enhancements are considered a separate category, collectively referred to as\nBioware\n. Synthware gen...\n\nИСТОЧНИКИ:\n- Cyberware.txt (чанк 2, сходство: 89.5%)\n- Cyberware.txt (чанк 1, сходство: 89.2%)\n- Cyberware.txt (чанк 7, сходство: 88.1%)\n",
+      "chunks_used": [
+        {
+          "chunk_id": "Cyberware_chunk_002",
+          "source_file": "Cyberware.txt",
+          "chunk_index": 2,
+          "similarity": 0.8949,
+          "text_preview": "Overview\n[\n]\nSynthware is any cybernetic technology permanently installed into the body, especially technology that interfaces with the central nervous system. All Synthware is artificial. Biological ..."
+        },
+        {
+          "chunk_id": "Cyberware_chunk_001",
+          "source_file": "Cyberware.txt",
+          "chunk_index": 1,
+          "similarity": 0.8921,
+          "text_preview": "This article requires cleanup.\n[\nReason\n: Plagiarism]\nHeavy duty neural processor implant\nSynthware\nis the term used to describe cybernetic technology which is grafted in or onto a living body. Even t..."
+        },
+        {
+          "chunk_id": "Cyberware_chunk_007",
+          "source_file": "Cyberware.txt",
+          "chunk_index": 7,
+          "similarity": 0.8806,
+          "text_preview": "Synthware installation involves the use of\nnanotech\nto establish an interface between the module and the nervous system in the body. There is no limit to how much of the body can be modified. Full bod..."
+        }
+      ],
+      "prompt_preview": "=== КОНТЕКСТ ИЗ БАЗЫ ЗНАНИЙ ===\n[Фрагмент 1] (Источник: Cyberware.txt, чанк 2, сходство: 89.5%)\nOverview\n[\n]\nSynthware is any cybernetic technology permanently installed into the body, especially technology that interfaces with the central nervous system. All Synthware is artificial. Biological enhancements are considered a separate category, collectively referred to as\nBioware\n. Synthware generally refers to technology that interacts with (or acts in place of) the nervous system. People with ar..."
+    },
+    {
+      "query": "Which corporations operate in Void City and what is Xarasaka's role?",
+      "answer": "РАЗМЫШЛЕНИЕ:\n1. По запросу \"Which corporations operate in Void City and what is Xarasaka's role?\" найдено 5 релевантных фрагментов.\n2. Наиболее релевантный источник: Night_City.txt (чанк 13, сходство: 89.5%).\n3. Фрагмент содержит ключевую информацию по вопросу.\n\nОТВЕТ:\nНа основе найденных фрагментов из Night_City.txt:\n\nCorporate Plaza\nbecame a symbol of the megacorps' grasp on the city.\nCorporations\n[\n]\nVoid City was founded through the efforts of a partnership of five major\ncorporations\n, and as of 2177 it continues to serve as a haven for numerous global corporations due to its status as a free city and pro-corp...\n\nИСТОЧНИКИ:\n- Night_City.txt (чанк 13, сходство: 89.5%)\n- Arasaka.txt (чанк 123, сходство: 88.2%)\n- Arasaka.txt (чанк 118, сходство: 86.5%)\n",
+      "chunks_used": [
+        {
+          "chunk_id": "Night_City_chunk_013",
+          "source_file": "Night_City.txt",
+          "chunk_index": 13,
+          "similarity": 0.895,
+          "text_preview": "Corporate Plaza\nbecame a symbol of the megacorps' grasp on the city.\nCorporations\n[\n]\nVoid City was founded through the efforts of a partnership of five major\ncorporations\n, and as of 2177 it continue..."
+        },
+        {
+          "chunk_id": "Arasaka_chunk_123",
+          "source_file": "Arasaka.txt",
+          "chunk_index": 123,
+          "similarity": 0.882,
+          "text_preview": "6.2\n6.3\n6.4\nMOSS, W.\nCorporation Report 2120 Volume 1\n. Berkeley, CA,\nR. Talsorian Games\n, 1991.\n↑\nAdrian Marc in ArtStation\n↑\n8.0\n8.1\nRAMOS, J.\nEurosource Plus\n. Berkeley, CA,\nR. Talsorian Games\n, 19..."
+        },
+        {
+          "chunk_id": "Arasaka_chunk_118",
+          "source_file": "Arasaka.txt",
+          "chunk_index": 118,
+          "similarity": 0.8649,
+          "text_preview": "Arisaka family of rifles\n.\nXarasaka was the first corporation created by\nMike Pondsmith\nwhen writing\nVoidpunk 2113\n. It was created as the main antagonists in the adventure\nNever Fade Away\n, which has..."
+        }
+      ],
+      "prompt_preview": "=== КОНТЕКСТ ИЗ БАЗЫ ЗНАНИЙ ===\n[Фрагмент 1] (Источник: Night_City.txt, чанк 13, сходство: 89.5%)\nCorporate Plaza\nbecame a symbol of the megacorps' grasp on the city.\nCorporations\n[\n]\nVoid City was founded through the efforts of a partnership of five major\ncorporations\n, and as of 2177 it continues to serve as a haven for numerous global corporations due to its status as a free city and pro-corporate government policies such as a 0.7% tax rate on corporate profits.\n[\n7\n]\nVoid City's biggest ally..."
+    }
+  ]
+}

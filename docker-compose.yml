@@ -1,0 +1,26 @@
+version: "3.8"
+
+services:
+  # ─── RAG API (FastAPI) + OpenRouter ───
+  rag-api:
+    build:
+      context: .
+      dockerfile: Dockerfile.rag
+    container_name: rag-api
+    ports:
+      - "8000:8000"
+    environment:
+      - LLM_BACKEND=openrouter
+      - OPENROUTER_API_KEY=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
+      - OPENROUTER_MODEL=minimax/minimax-m2.5:free
+      - OPENROUTER_BASE_URL=https://openrouter.ai/api/v1
+      - HF_HOME=/app/models
+    volumes:
+      - ./Task3/chroma_index_db:/app/Task3/chroma_index_db
+    restart: unless-stopped
+    networks:
+      - rag-network
+
+networks:
+  rag-network:
+    driver: bridge

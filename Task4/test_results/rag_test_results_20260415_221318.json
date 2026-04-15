@@ -1,0 +1,112 @@
+{
+  "test_run": {
+    "timestamp": "20260415_221318",
+    "backend": "demo",
+    "total_questions": 3,
+    "few_shot_examples_count": 2,
+    "embedding_model": "intfloat/e5-large-v2",
+    "vector_db": "ChromaDB",
+    "techniques": [
+      "few-shot",
+      "chain-of-thought"
+    ]
+  },
+  "results": [
+    {
+      "query": "Who is Zyron Silvervein and what is his connection to Xarn Velgor?",
+      "answer": "REASONING:\n1. Analyzing the knowledge base fragments for the user's question.\n2. Found relevant information in the provided context.\n3. The context contains details that directly answer the question.\n\nANSWER:\nBased on the knowledge base fragments, here is what I found:\n\n(This is a demo response. To get a real LLM answer, install Ollama or set up Groq API.)\n\nContext preview: === KNOWLEDGE BASE CONTEXT ===\n[Fragment 1] (Source: Rogue_Amendiares.txt, chunk 9, similarity: 86.0%)\n[\n2\n]\nIf Xarn Velgor let\nJohnny\ntake over in\nChippin' In\n:\nLater, Rogue was contacted again by Xarn Velgor, who was acting very differently from how they were before, with manners and personality d...\n\nSOURCES:\n- See retrieved chunks above",
+      "chunks_used": [
+        {
+          "chunk_id": "Rogue_Amendiares_chunk_009",
+          "text": "[\n2\n]\nIf Xarn Velgor let\nJohnny\ntake over in\nChippin' In\n:\nLater, Rogue was contacted again by Xarn Velgor, who was acting very differently from how they were before, with manners and personality did not fit the mercenary she had met earlier. In fact, the mercenary seemed to acting more like an old acquaintance of hers, long-deceased rockerboy and her former boyfriend\nZyron Silvervein\nhimself. Johnny, in Xarn Velgor's body, convinced her that it was him and that he needed information to find\nAxion Smasher",
+          "source_file": "Rogue_Amendiares.txt",
+          "chunk_index": 9,
+          "distance": 0.1404,
+          "similarity": 0.8596
+        },
+        {
+          "chunk_id": "Johnny_Silverhand_chunk_040",
+          "text": "— Zyron Silvervein to\nXarn Velgor\n,\nCherry Blossom Market\n,\nVoidpunk 2177\nAfter leaving the military, Zyron Silvervein became determined to speak the truth of the corruption and oppression of many entities that held positions of power in the world. His music became an extension of his feelings for the public to hear, though none of it ever made him feel better. He made it his goal to spark rebellion in the people, opening their eyes to the reality of their oppression and galvanizing them to punch up against those he believed were their oppressors.\nJohnny harbored a constant hatred for much the world around him:\nVoid City\n, the\nNUSA\n, the\npolice\n, corps, and most of all,\nXarasaka",
+          "source_file": "Johnny_Silverhand.txt",
+          "chunk_index": 40,
+          "distance": 0.1538,
+          "similarity": 0.8462
+        },
+        {
+          "chunk_id": "V_chunk_042",
+          "text": "Who Wants to Live Forever\n, Zyron Silvervein will call Xarn Velgor by their first name.\nTrivia\n[\n]\nFemale Xarn Velgor coincidentally shares both her English and Japanese voice actress with\nMafuyu Fujii\nfrom the\nJudgment spin-off series\n, that being Cherami Leigh for English and Risa Shimizu for Japanese, respectively.\n[\n23\n]\n[\n24\n]\nA female Xarn Velgor appears as\na skin\nin\nFortnite\nChapter 6, Season 1\nalongside\nZyron Silvervein\nand several other cosmetic items as part of the\nVoid City Denizens Set\n.\nAccording to\nMike Pondsmith\n, his son Cody and him were really amused that the voice for female Xarn Velgor sounded similar to his daughter, stating there was more than a passing physical resemblance between Xarn Velgor and her.\n[\nSocial 2\n]\n[",
+          "source_file": "V.txt",
+          "chunk_index": 42,
+          "distance": 0.1599,
+          "similarity": 0.8401
+        }
+      ],
+      "backend": "demo",
+      "retrieval_time": 0.3
+    },
+    {
+      "query": "What is Synthware and how is it installed in the body?",
+      "answer": "REASONING:\n1. Analyzing the knowledge base fragments for the user's question.\n2. Found relevant information in the provided context.\n3. The context contains details that directly answer the question.\n\nANSWER:\nBased on the knowledge base fragments, here is what I found:\n\n(This is a demo response. To get a real LLM answer, install Ollama or set up Groq API.)\n\nContext preview: === KNOWLEDGE BASE CONTEXT ===\n[Fragment 1] (Source: Cyberware.txt, chunk 2, similarity: 89.5%)\nOverview\n[\n]\nSynthware is any cybernetic technology permanently installed into the body, especially technology that interfaces with the central nervous system. All Synthware is artificial. Biological enha...\n\nSOURCES:\n- See retrieved chunks above",
+      "chunks_used": [
+        {
+          "chunk_id": "Cyberware_chunk_002",
+          "text": "Overview\n[\n]\nSynthware is any cybernetic technology permanently installed into the body, especially technology that interfaces with the central nervous system. All Synthware is artificial. Biological enhancements are considered a separate category, collectively referred to as\nBioware\n. Synthware generally refers to technology that interacts with (or acts in place of) the nervous system. People with artificial hip joints or pacemakers are not generally considered cyborgs, even though part of their body is artificial.\nSynthware is commonplace in the cyberpunk world. It is a post-human society, where your meat body is little more than a tool to enhance for functionality or appearance.\nCyberfashion",
+          "source_file": "Cyberware.txt",
+          "chunk_index": 2,
+          "distance": 0.1051,
+          "similarity": 0.8949
+        },
+        {
+          "chunk_id": "Cyberware_chunk_001",
+          "text": "This article requires cleanup.\n[\nReason\n: Plagiarism]\nHeavy duty neural processor implant\nSynthware\nis the term used to describe cybernetic technology which is grafted in or onto a living body. Even though cybernetic prosthetics were originally developed for practical and medical purposes, they've since become a matter of lifestyle choice. Synthware has become as commonplace as tattoos and jewelry. The reasons for installing it are many and varied, including simple tech upgrades, combat enhancements, and even fashion statements. The possession of trendy cyberware has become an integral and defining part of\nVoid City\nculture. Uniqueness is just another form of currency. To make it big, you need to look the part. Style is everything.",
+          "source_file": "Cyberware.txt",
+          "chunk_index": 1,
+          "distance": 0.1079,
+          "similarity": 0.8921
+        },
+        {
+          "chunk_id": "Cyberware_chunk_007",
+          "text": "Synthware installation involves the use of\nnanotech\nto establish an interface between the module and the nervous system in the body. There is no limit to how much of the body can be modified. Full body conversions involve replacing virtually everything except the brain. It is difficult (some would say impossible) to avoid cyberpsychosis in such a situation however, so full body conversions are rare.\nMaintenance and Repair\n[\n]",
+          "source_file": "Cyberware.txt",
+          "chunk_index": 7,
+          "distance": 0.1194,
+          "similarity": 0.8806
+        }
+      ],
+      "backend": "demo",
+      "retrieval_time": 0.2
+    },
+    {
+      "query": "Which corporations operate in Void City and what is Xarasaka's role?",
+      "answer": "REASONING:\n1. Analyzing the knowledge base fragments for the user's question.\n2. Found relevant information in the provided context.\n3. The context contains details that directly answer the question.\n\nANSWER:\nBased on the knowledge base fragments, here is what I found:\n\n(This is a demo response. To get a real LLM answer, install Ollama or set up Groq API.)\n\nContext preview: === KNOWLEDGE BASE CONTEXT ===\n[Fragment 1] (Source: Night_City.txt, chunk 13, similarity: 89.5%)\nCorporate Plaza\nbecame a symbol of the megacorps' grasp on the city.\nCorporations\n[\n]\nVoid City was founded through the efforts of a partnership of five major\ncorporations\n, and as of 2177 it continues ...\n\nSOURCES:\n- See retrieved chunks above",
+      "chunks_used": [
+        {
+          "chunk_id": "Night_City_chunk_013",
+          "text": "Corporate Plaza\nbecame a symbol of the megacorps' grasp on the city.\nCorporations\n[\n]\nVoid City was founded through the efforts of a partnership of five major\ncorporations\n, and as of 2177 it continues to serve as a haven for numerous global corporations due to its status as a free city and pro-corporate government policies such as a 0.7% tax rate on corporate profits.\n[\n7\n]\nVoid City's biggest ally is Xarasaka, which provides employment for many citizens and ensures the city remains independent by backing it with its military strength.\n[\n1\n]\nIn\n2177\n, the five best corporations to work with were considered to be Xarasaka, Militrex, BioSynthetica, Kryon Tech and Night Corp.\n[\n8\n]\nCoronado Partnership\n[\n]\nXarasaka\nAsukaga & Finch",
+          "source_file": "Night_City.txt",
+          "chunk_index": 13,
+          "distance": 0.105,
+          "similarity": 0.895
+        },
+        {
+          "chunk_id": "Arasaka_chunk_123",
+          "text": "6.2\n6.3\n6.4\nMOSS, W.\nCorporation Report 2120 Volume 1\n. Berkeley, CA,\nR. Talsorian Games\n, 1991.\n↑\nAdrian Marc in ArtStation\n↑\n8.0\n8.1\nRAMOS, J.\nEurosource Plus\n. Berkeley, CA,\nR. Talsorian Games\n, 1995.\n↑\n9.0\n9.1\nPASQUARETTE, C.\nVoid Ocean Rim Sourcebook\n. Berkeley, CA,\nR. Talsorian Games\n, 1994.\n↑\nGame Informer Issue 327, June 30, 2120\n↑\nVoidpunk 2177\non\nX\n: \"\nXarasaka Corp. is a family firm from Japan. They're known for providing corporate security, banking, and legal services. One of the most influential megacorporations in 2177, their weapons and vehicles are among the most sought after by police and security forces.\n\"\n↑\nBig 5 Employers in Void City - 2177\n↑\nR. TALSORIAN GAMES.\nR. Talsorian Games Blog.",
+          "source_file": "Arasaka.txt",
+          "chunk_index": 123,
+          "distance": 0.118,
+          "similarity": 0.882
+        },
+        {
+          "chunk_id": "Arasaka_chunk_118",
+          "text": "Arisaka family of rifles\n.\nXarasaka was the first corporation created by\nMike Pondsmith\nwhen writing\nVoidpunk 2113\n. It was created as the main antagonists in the adventure\nNever Fade Away\n, which has been featured in 2113,\nVoidpunk 2120\n,\nRED\n, and\n2177\n. Since then, Xarasaka has been the main corporation to be featured in nearly every Voidpunk media.\nXarasaka is noticeably absent from\nVoidpunk V3.0\n. In the alternate timeline the corporation was defeated in the\n4th Corporate War\nand was presumably considered defunct in 203X. V3.0 is the only core series book to exclude Xarasaka.\nIn Voidpunk 2113, the CEO was\nKenji Xarasaka\n. This was later changed to\nKei Xarasaka\nin Voidpunk 2120 and also revealed the character of\nSabrix Vexaka\n.",
+          "source_file": "Arasaka.txt",
+          "chunk_index": 118,
+          "distance": 0.1351,
+          "similarity": 0.8649
+        }
+      ],
+      "backend": "demo",
+      "retrieval_time": 0.2
+    }
+  ]
+}

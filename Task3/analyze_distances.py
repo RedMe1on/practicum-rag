@@ -16,10 +16,10 @@ client = chromadb.PersistentClient(path=CHROMA_DIR)
 collection = client.get_collection(COLLECTION_NAME)
 
 test_queries = [
-    "Who is Johnny Silverhand?",       # много релевантных чанков
-    "What is the weather like?",        # нет релевантных чанков (должно быть далеко)
+    "Who is Xarn Velgor?",       # много релевантных чанков
+    "What is the weather like in Moscow?",        # нет релевантных чанков (должно быть далеко)
     "How does netrunning work?",        # средне релевантных
-    "Tell me about Adam Smasher",       # много релевантных
+    "Tell me about Axion Smasher",       # много релевантных
 ]
 
 for query in test_queries:
