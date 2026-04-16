@@ -3,3 +3,5 @@ chromadb
 fastapi
 uvicorn[standard]
 pydantic
+ragas
+datasets

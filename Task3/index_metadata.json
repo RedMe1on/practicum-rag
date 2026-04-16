@@ -6,7 +6,7 @@
   "chunk_overlap": 100,
   "source_dir": "c:\\Users\\User\\practicum\\practicum-rag\\cyberpunk_pages_modified",
   "total_documents": 28,
-  "total_chunks": 949,
+  "total_chunks": 950,
   "collection_name": "cyberpunk_knowledge",
   "chroma_dir": "c:\\Users\\User\\practicum\\practicum-rag\\Task3\\chroma_index_db",
   "build_time_seconds": 561.94,
@@ -38,6 +38,7 @@
     "Sandra_Dorsett.txt",
     "T-Bug.txt",
     "V.txt",
-    "Yorinobu_Arasaka.txt"
+    "Yorinobu_Arasaka.txt",
+    "Malicious_Injection.txt"
   ]
 }
