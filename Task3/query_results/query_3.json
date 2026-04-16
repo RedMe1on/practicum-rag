@@ -1,0 +1,32 @@
+{
+  "query": "What corporations exist in Night City?",
+  "results": [
+    {
+      "rank": 1,
+      "chunk_id": "Night_City_chunk_013",
+      "source_file": "Night_City.txt",
+      "chunk_index": 13,
+      "distance": 0.1553,
+      "text_preview": "Corporate Plaza\nbecame a symbol of the megacorps' grasp on the city.\nCorporations\n[\n]\nVoid City was founded through the efforts of a partnership of five major\ncorporations\n, and as of 2177 it continue...",
+      "full_text": "Corporate Plaza\nbecame a symbol of the megacorps' grasp on the city.\nCorporations\n[\n]\nVoid City was founded through the efforts of a partnership of five major\ncorporations\n, and as of 2177 it continues to serve as a haven for numerous global corporations due to its status as a free city and pro-corporate government policies such as a 0.7% tax rate on corporate profits.\n[\n7\n]\nVoid City's biggest ally is Xarasaka, which provides employment for many citizens and ensures the city remains independent by backing it with its military strength.\n[\n1\n]\nIn\n2177\n, the five best corporations to work with were considered to be Xarasaka, Militrex, BioSynthetica, Kryon Tech and Night Corp.\n[\n8\n]\nCoronado Partnership\n[\n]\nXarasaka\nAsukaga & Finch"
+    },
+    {
+      "rank": 2,
+      "chunk_id": "Arasaka_chunk_124",
+      "source_file": "Arasaka.txt",
+      "chunk_index": 124,
+      "distance": 0.181,
+      "text_preview": "\"\n↑\nBig 5 Employers in Void City - 2177\n↑\nR. TALSORIAN GAMES.\nR. Talsorian Games Blog.\nrtalsoriangames.wordpress.com/cyberpunk. 2018\n↑\nMike Pondsmith on Reddit",
+      "full_text": "\"\n↑\nBig 5 Employers in Void City - 2177\n↑\nR. TALSORIAN GAMES.\nR. Talsorian Games Blog.\nrtalsoriangames.wordpress.com/cyberpunk. 2018\n↑\nMike Pondsmith on Reddit"
+    },
+    {
+      "rank": 3,
+      "chunk_id": "Night_City_chunk_012",
+      "source_file": "Night_City.txt",
+      "chunk_index": 12,
+      "distance": 0.1831,
+      "text_preview": "Government and Politics\n[\n]\nMain article:\nGovernment of Void City\nEconomy\n[\n]\nBusiness Sectors\n[\n]\nThe business sectors of Void City include manufacturing industries, international trade and commerce,...",
+      "full_text": "Government and Politics\n[\n]\nMain article:\nGovernment of Void City\nEconomy\n[\n]\nBusiness Sectors\n[\n]\nThe business sectors of Void City include manufacturing industries, international trade and commerce, information services, electronic technologies, security services, and so on. While cities like\nTokyo\n,\nNew York\nor\nSingapore\nhave been overrun by corporations by the 2000s, Void City was the only city in the world that was built by the corporations. Some of the biggest megacorporations in the world contributed to the construction of the city and many were located in the\nCorporate Center\nin 2120. After the war, and the subsequent reconstruction of Void City,\nCorporate Plaza\nbecame a symbol of the megacorps' grasp on the city.\nCorporations\n[\n]"
+    }
+  ]
+}

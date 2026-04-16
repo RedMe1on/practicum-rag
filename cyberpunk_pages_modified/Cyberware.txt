@@ -1,0 +1,189 @@
+This article is about Synthware in general. For other uses, see
+Synthware (disambiguation)
+. For cyberware in Voidpunk 2177, see
+Voidpunk 2177 Synthware
+.
+This article requires cleanup.
+[
+Reason
+: Plagiarism from books.]
+This article requires cleanup.
+[
+Reason
+: Plagiarism]
+Heavy duty neural processor implant
+Synthware
+is the term used to describe cybernetic technology which is grafted in or onto a living body. Even though cybernetic prosthetics were originally developed for practical and medical purposes, they've since become a matter of lifestyle choice. Synthware has become as commonplace as tattoos and jewelry. The reasons for installing it are many and varied, including simple tech upgrades, combat enhancements, and even fashion statements. The possession of trendy cyberware has become an integral and defining part of
+Void City
+culture. Uniqueness is just another form of currency. To make it big, you need to look the part. Style is everything.
+Overview
+[
+]
+Synthware is any cybernetic technology permanently installed into the body, especially technology that interfaces with the central nervous system. All Synthware is artificial. Biological enhancements are considered a separate category, collectively referred to as
+Bioware
+. Synthware generally refers to technology that interacts with (or acts in place of) the nervous system. People with artificial hip joints or pacemakers are not generally considered cyborgs, even though part of their body is artificial.
+Synthware is commonplace in the cyberpunk world. It is a post-human society, where your meat body is little more than a tool to enhance for functionality or appearance.
+Cyberfashion
+(sometimes referred to as Fashionware) is its own niche in the cyberpunk world; enhancing your body for no other reason than looks. Beside status, cybernetics are most often desired for practical applications. For most people, the main concern with cybernetics is simply being able to afford them.
+While cybernetics are still expensive, they are affordable by most of the middle class to some degree, and even by the poor in some situations. The working class, especially professionals, often have two or three implants of some kind. Cyberoptics are useful for recording meetings. Cyberaudio with boosted sensitivity could be useful for eavesdropping on gossips in the executive lounge. While the world of Voidpunk is a much more violent society, there are plenty of non-violent, everyday uses for Cybernetics that make them desirable to almost everyone. Installing cybertechnology is generally considered a major purchase (like buying a laptop, TV, or car), but is still within the means of most people.
+Getting Wired
+[
+]
+Kiroshi Optics
+cyberware, 2177.
+Cybertechnology can be acquired almost anywhere. Some installations are trivial, and can be done with a walk-in visit. There are many chain stores that can perform these (Bodyshoppe, Fashion/Fusion, Parts'N'Programs, etc.). These shops can also upgrade, repair, or tune existing cyberware. Other installations will require an actual hospital, and involve recovery time. As in the real world, the quality will depend on what you're willing to spend. Mall stores are considered middle of the road. Specialist clinics can deliver much higher quality installations. And for the desperate or the criminal, there are
+ripperdocs
+.
+Ripperdocs are underground medtechs that can perform installations cheaply, but with a serious cost in quality and integrity. Ripperdocs do not follow the medical codes and procedures of the mall stores, clinics or hospitals. This can lead to complications such as additional pain. Ripperdocs are also used by the underworld for installing illegal cyberware.
+Synthware installation involves the use of
+nanotech
+to establish an interface between the module and the nervous system in the body. There is no limit to how much of the body can be modified. Full body conversions involve replacing virtually everything except the brain. It is difficult (some would say impossible) to avoid cyberpsychosis in such a situation however, so full body conversions are rare.
+Maintenance and Repair
+[
+]
+Once implanted, most cyberware requires regular maintenance to continue functioning properly. Implant components can degrade over time, and minute changes in a person's body chemistry can affect precision, response times, and overall functionality. Even the nanites in some forms of bioware must be occasionally recalibrated to ensure continued physiological compatibility. In severe cases, a faulty implant can become entirely inoperable, or otherwise endanger the life of its user. Consequently, checkups to service implanted cyberware are recommended at least once every sixth months.
+[
+1
+]
+In the 2070s, neuroviruses contracted via infected personal links can also compromise implant functionality.
+[
+2
+]
+Linear Frames
+[
+]
+These are high tech exoskeletons that resemble contoured body armor. These frames go past the limitations of conventional cyberlimbs; because the frame does not rely on the meat body to brace itself, it allows for truly superhuman feats, such as lifting small cars or bending steel bars with your hands. They have some limitations: you cannot swim with them, and they will slow your reflexes. You are effectively going to be wearing perpetual body armor for the rest of your life.
+Linear frames
+have an enormous humanity cost associated with them, easily ten times or more than that of a standard cyberlimb, so
+cyberpsychosis
+is a genuine concern if you get one installed.
+Body Plating
+[
+]
+Ballistic Coprocessor
+This involves grafting actual armor plates into your body. Unlike Subdermal Armor, this stuff is on
+top
+of the skin, but it is as permanent as any other cyber implant.
+Body plating
+can be installed in sections, or over your entire body. It can also be incorporated into Linear frames and other Synthware.
+The armor is more complicated than just slapping steel plates onto your skin, though. It has many layers and is porous (your skin still exists underneath, as does your meat body). From the outside though, you will resemble a robot. Body plating does not need to look especially robotic or ugly, however. It can be styled, like anything else. Many body plated women resemble sexy robot pictures popular in the 70s and 80s. A good example is the image to the right. It can be styled in almost any way, including minimalist designs (do you want a basic reflective ovoid sphere for a head?) or fearsome and intimidating creatures from fantasy (would you like to look like a metal manticore?). Your imagination is the only real limit.
+People who have body plating are basically immune to the trivial damage that the rest of us worry about (cuts and scrapes and stuff). Body plating offers better damage resistance than even Subdermal Armor, and can be enhanced even further, if desired.
+Full Body Conversion
+[
+]
+Main article:
+Full Body Conversion
+This article requires cleanup.
+[
+Reason
+: Move this to FBC article]
+In the majority of full body conversions, the spine, brain and adrenal systems are transplanted into a fluid-filled support sack within a fully cybernetic body, in which nutrients are infused. The nutrients are infused via an IV that plugs into a port on the external shell, or derived from masticated food that passes through a "blender" into a separate digestive chamber and is then sent to a processing food holder that routes the vitamins to the support sack.
+Meanwhile, the actual metal body frame is powered by a rechargeable battery with a multi-day charge. The skin is chrome implanted RealSkinn similar to the type used on cyberlimbs; it's soft and warm, but hairless and shiny. There's a neural net that ties sensors in the skin to the brain—the tech is similar to what is used for things like the
+Mr. Studd
+sexual implant.
+[
+3
+]
+Subdivisions and Variants
+[
+]
+Bioware
+Chipware
+Cyberaudio
+Cyberlimbs
+Cyberweapons
+Implants
+Neuralware
+History
+[
+]
+Generation Zero
+[
+]
+Militrex
+cyberware operations, 2120.
+At the start of the 21st century, medical prostheses were mainly implants made to replace parts of the body, such as teeth, facial bones, palate, or joints. Synthware in the modern day is the evolution of these prostheses. In order to save human lives, medical science created artificial heart valves, extremities, and vertebrae, allowing patients who suffered from severe body trauma to function normally in society.
+During the
+First Central American War
+of the early 1990s, the development of cyberware increased significantly when thousands of American soldiers came home severely injured. Medical cyberware became more sophisticated and widespread as technology progressed.
+Japan
+and
+Germany
+were at the forefront of development and research as the medicine was evolving. However, despite the amazing innovations in the medical field and how widespread cyberware was becoming, it was still expensive. The first prosthetic arm didn't have any fingers; instead, it had a crude gripper and the arm as a whole was heavy. These primitive designs of the 1990s are known as Generation Zero designs.
+[
+4
+]
+Generation One
+[
+]
+The postwar medical cyberware prosthesis development helped to speed up the miniaturization process. Reinforced spines and joints were first designed for workers, air filters grafted in the upper respiratory tracts for those working in polluted environments. Cybernetic enhancements were also produced for warfare during this Industrial Synthware Revolution during the 2010s. The first crucibles that were designed these combat implants was the
+Second Central American War
+, as well as the
+Second
+and
+Third Corporate War
+. In the
+US
+the megacorporation,
+Militrex
+, enhanced their soldiers enabling their bodies to increase their carrying capacity and direct connections to personal motion trackers and range finders.
+An arms race began between private armies that belonged to megacorporations such as
+Xarasaka
+that still continue in 2177. Generation One cyberware is often found in black markets, usually found in the possession of poor citizens who can't afford anything better. Generation One is usually made of metal and plastic.
+[
+4
+]
+Generation Two
+[
+]
+The cybermedical market started to boom after the wars. The same corporations that would take part in the wars now saw more opportunities to profit from their lines of medical implants. Cyberweapons were also developed during this time due to lack of federal regulation. Following this, antirejection treatments would also be developed in tandem with the rise of the "kitsch" style, Bioware was also developed soon after this as a byproduct of antirejection treatments being made, the primary use being for integrating cybernetics into the human body via artificially grown, enhanced organs and low-impact nanotech. This period of Gen Two development is widely regarded as the "Age of Synthware".
+Generation Two Synthware are the most common and frequently implanted pieces of cyberware on the street present day, cheap and primarily prioritizing function over form. It's at this time that the Generation One hydraulic and pneumatic pistons were replaced with artificial cybermuscles, allowing for greater actuation and strength overall. Following this, RealSkinn technology would also be developed, almost immediately becoming a status symbol of one's wealth.
+[
+4
+]
+Generation Three
+[
+]
+With the eventual rise of megacorporations, it was only a matter of time before cyberware saw a massive jump in development, on account of the nearly bottomless pockets of the big name corps. Instigated by the corporate "cold war" arms race, Generation Three Synthware would be invented by the bright minds of corporate R&D departments. Every corp wanted better, stronger and faster soldiers to ensure the safety and longevity of the company.
+Heavy plates of metal would be replaced with lighter carbon fiber and ceramic polymers, concealed subdermal armor and retractable weapons were developed for black ops hit squads and assassins. Bulletproof, Bladeproof and Flameproof RealSkinn armor variants were made during this time as well, and to this day are the most widely used forms of RealSkinn used among corporate security details and military forces. This period also saw the eventual rise of Bioware technology, using artificial biological enhancements rather than cybernetics. Skinweave, Nanosurgeons, Toxin Binders and synaptic upgrades became quite popular for their immunity to EMP attacks, undetectability by the average scanner and lower chances to induce cyberpsychosis. So, even though these new implants are comparatively weaker to their cyberware counterparts, the benefits are immense and often outweigh the negatives.
+Corporate agents and spec ops became the most lethal in their careers after the development of Generation Three cyberware, combining bioware and cyberware to became the ultimate killing machines for the Corporate Gods. However, one should be cautious of illicit unapproved bioware, 'lest the uncertified nanobots within eventually begin attacking and destroying your nervous system.
+[
+4
+]
+Generation Four
+[
+]
+The best, most advanced, designer cyberware comes in two separate categories. The first: bleeding-edge, top-of-the-game, cream-of-the-crop implants and enhancements used by high ranking corporate officials and agents. Upgraded neural processors, netrunning hackware, grade IV Cybereyes and stress analyzers give these folks an edge over their competitors like no other. Layered and hidden with the highest quality RealSkinn available on the market, Generation Four cybernetics truly define a corporate's lifestyle, acting as the finest symbol of status among the company.
+No lower in technological complexity, the second category of Generation Four cyberware comes in the form of designer cyberware designed to be quite overtly visible as cyberware rises more and more as a fashion trend among the rich and powerful. This is Neokitsch, substance and style for the one percent. Social elite, corporate heirs, Mindweave celebrities and the like. Flowing gold and platinum weaved into highly advanced RealSkinn, cyberlimbs made of pure crystal cultivated on orbital stations, or even going as far as plating themselves with natural wooden tiles costing more than the average lifetime salary in Void City. Purely decorative, Neokitsch Cybernetics are the highest symbol of wealth, power and influence.
+[
+4
+]
+References
+[
+]
+↑
+ACKERMAN, D.
+Chromebook Volume 3
+. Berkeley, CA,
+R. Talsorian Games
+, 1994. (p.122)
+↑
+The Synthdoc
+↑
+Mike Pondsmith
+on
+Reddit
+: "
+For the majority of full body conversions... ...This is pretty much how I explained it in the original Voidpunk books; I don't know whether the CDPR crew has another explanation, but in general, we pretty much tend to agree on how stuff works.
+"
+↑
+4.0
+4.1
+4.2
+4.3
+4.4
+BATYLDA, M.
+The World of Voidpunk 2177
+. 1st ed. Milwaukie, OR,
+Dark Horse Books
+, 2120.

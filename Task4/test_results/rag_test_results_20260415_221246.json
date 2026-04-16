@@ -1,0 +1,31 @@
+{
+  "test_run": {
+    "timestamp": "20260415_221246",
+    "backend": "demo ",
+    "total_questions": 3,
+    "few_shot_examples_count": 2,
+    "embedding_model": "intfloat/e5-large-v2",
+    "vector_db": "ChromaDB",
+    "techniques": [
+      "few-shot",
+      "chain-of-thought"
+    ]
+  },
+  "results": [
+    {
+      "query": "Who is Zyron Silvervein and what is his connection to Xarn Velgor?",
+      "error": "Unknown backend: demo . Use: ['ollama', 'groq', 'demo']",
+      "answer": null
+    },
+    {
+      "query": "What is Synthware and how is it installed in the body?",
+      "error": "Unknown backend: demo . Use: ['ollama', 'groq', 'demo']",
+      "answer": null
+    },
+    {
+      "query": "Which corporations operate in Void City and what is Xarasaka's role?",
+      "error": "Unknown backend: demo . Use: ['ollama', 'groq', 'demo']",
+      "answer": null
+    }
+  ]
+}

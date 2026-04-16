@@ -1,0 +1,27 @@
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# Install curl для healthcheck и автоподтягивания модели
+RUN apt-get update && apt-get install -y --no-install-recommends curl \
+    && rm -rf /var/lib/apt/lists/*
+
+# Copy and install Python deps
+COPY Task4/requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Pre-download embedding model into image so startup is instant
+ENV HF_HOME=/app/models
+RUN python -c "from sentence_transformers import SentenceTransformer; SentenceTransformer('intfloat/e5-large-v2')"
+
+# Copy application code
+COPY Task4/ ./Task4/
+COPY Task3/chroma_index_db ./Task3/chroma_index_db/
+
+# Set environment
+ENV LLM_BACKEND=openrouter
+ENV PYTHONUNBUFFERED=1
+
+EXPOSE 8000
+
+CMD ["uvicorn", "Task4.rag_api:app", "--host", "0.0.0.0", "--port", "8000"]

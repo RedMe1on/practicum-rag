@@ -1,0 +1,116 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+============================================================
+STEP 1: Loading embedding model
+============================================================
+Loading weights:   0%|          | 0/391 [00:00<?, ?it/s]Loading weights: 100%|##########| 391/391 [00:00<00:00, 5639.19it/s]
+[1mBertModel LOAD REPORT[0m from: intfloat/e5-large-v2
+Key                     | Status     |  | 
+------------------------+------------+--+-
+embeddings.position_ids | UNEXPECTED |  | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+c:\Users\User\practicum\practicum-rag\Task1\build_index.py:31: FutureWarning: The `get_sentence_embedding_dimension` method has been renamed to `get_embedding_dimension`.
+  embedding_dim = model.get_sentence_embedding_dimension()
+Model: intfloat/e5-large-v2
+Repository: https://huggingface.co/intfloat/e5-large-v2
+Embedding dimension: 1024
+Model loaded in: 3.78s
+
+============================================================
+STEP 2: Loading and splitting documents
+============================================================
+  Adam_Smasher.txt: 45 chunks
+  Alt_Cunningham.txt: 17 chunks
+  Arasaka.txt: 125 chunks
+  Brick.txt: 6 chunks
+  Cyberpunk_2077.txt: 24 chunks
+  Cyberware.txt: 28 chunks
+  Dexter_DeShawn.txt: 6 chunks
+  Evelyn_Parker.txt: 9 chunks
+  Goro_Takemura.txt: 36 chunks
+  Jackie_Welles.txt: 21 chunks
+  Johnny_Silverhand.txt: 70 chunks
+  Judy_Alvarez.txt: 54 chunks
+  Kerry_Eurodyne.txt: 60 chunks
+  Meredith_Stout.txt: 8 chunks
+  Militech.txt: 85 chunks
+  Misty_Olszewski.txt: 11 chunks
+  Netrunning.txt: 8 chunks
+  Night_City.txt: 47 chunks
+  Panam_Palmer.txt: 54 chunks
+  Placide.txt: 9 chunks
+  River_Ward.txt: 39 chunks
+  Rogue_Amendiares.txt: 33 chunks
+  Royce.txt: 5 chunks
+  Saburo_Arasaka.txt: 46 chunks
+  Sandra_Dorsett.txt: 6 chunks
+  T-Bug.txt: 8 chunks
+  V.txt: 40 chunks
+  Yorinobu_Arasaka.txt: 26 chunks
+
+Total chunks: 926
+Split time: 0.04s
+
+============================================================
+STEP 3: Generating embeddings
+============================================================
+Batches:   0%|          | 0/29 [00:00<?, ?it/s]Batches:   3%|3         | 1/29 [00:26<12:26, 26.67s/it]Batches:   7%|6         | 2/29 [00:54<12:12, 27.14s/it]Batches:  10%|#         | 3/29 [01:23<12:09, 28.06s/it]Batches:  14%|#3        | 4/29 [01:53<12:02, 28.91s/it]Batches:  17%|#7        | 5/29 [02:27<12:17, 30.72s/it]Batches:  21%|##        | 6/29 [02:54<11:16, 29.43s/it]Batches:  24%|##4       | 7/29 [03:23<10:46, 29.40s/it]Batches:  28%|##7       | 8/29 [03:48<09:44, 27.81s/it]Batches:  31%|###1      | 9/29 [04:07<08:25, 25.29s/it]Batches:  34%|###4      | 10/29 [04:28<07:32, 23.82s/it]Batches:  38%|###7      | 11/29 [04:50<06:57, 23.20s/it]Batches:  41%|####1     | 12/29 [05:08<06:11, 21.83s/it]Batches:  45%|####4     | 13/29 [05:30<05:50, 21.90s/it]Batches:  48%|####8     | 14/29 [05:50<05:16, 21.12s/it]Batches:  52%|#####1    | 15/29 [06:12<04:59, 21.42s/it]Batches:  55%|#####5    | 16/29 [06:31<04:29, 20.76s/it]Batches:  59%|#####8    | 17/29 [06:50<04:03, 20.28s/it]Batches:  62%|######2   | 18/29 [07:07<03:30, 19.10s/it]Batches:  66%|######5   | 19/29 [07:30<03:22, 20.24s/it]Batches:  69%|######8   | 20/29 [07:50<03:04, 20.45s/it]Batches:  72%|#######2  | 21/29 [08:10<02:42, 20.29s/it]Batches:  76%|#######5  | 22/29 [08:44<02:49, 24.17s/it]Batches:  79%|#######9  | 23/29 [09:05<02:19, 23.26s/it]Batches:  83%|########2 | 24/29 [09:20<01:44, 20.94s/it]Batches:  86%|########6 | 25/29 [09:31<01:11, 17.96s/it]Batches:  90%|########9 | 26/29 [09:40<00:45, 15.26s/it]Batches:  93%|#########3| 27/29 [09:50<00:27, 13.77s/it]Batches:  97%|#########6| 28/29 [09:57<00:11, 11.53s/it]Batches: 100%|##########| 29/29 [10:02<00:00,  9.54s/it]Batches: 100%|##########| 29/29 [10:02<00:00, 20.77s/it]
+
+Embeddings shape: (926, 1024)
+Embedding time: 602.21s
+
+============================================================
+STEP 4: Creating ChromaDB index
+============================================================
+  Inserted batch 1: chunks 0-499
+  Inserted batch 2: chunks 500-925
+
+ChromaDB index created in: 1.30s
+Index saved to: c:\Users\User\practicum\practicum-rag\Task1\chroma_index_db/
+
+============================================================
+STEP 5: Saving metadata
+============================================================
+Metadata saved to: c:\Users\User\practicum\practicum-rag\Task1\index_metadata.json
+
+============================================================
+STEP 6: Test queries
+============================================================
+
+Query 1: "Who is Johnny Silverhand?"
+--------------------------------------------------
+  [1] Johnny_Silverhand.txt (chunk 0)
+      Distance: 0.1319
+      Preview: Sub-Pages:
+Main
+Gallery
+I saw corps ... transform Night City into a machine fueled by people's crushed spirits, broken dreams and emptied pockets. Corps've long controlled our lives, taken lots... and...
+
+  [2] Johnny_Silverhand.txt (chunk 34)
+      Distance: 0.1365
+      Preview: Database Entry (2077)
+[
+]
+Johnny Silverhand
+JOHNNY SILVERHAND
+They say you can become a legendary rockerboy without all the sex and drugs, the manic depression, run-ins with the law and one toxic rela...
+
+  [3] Johnny_Silverhand.txt (chunk 1)
+      Distance: 0.1374
+      Preview: rockerboy
+and lead singer of the band
+Samurai
+before its breakup in 2008.
+[
+2
+]
+A military veteran who defined the rockerboy movement as it is known today, Silverhand was the most prominent figure who...
+
+Traceback (most recent call last):
+  File "c:\Users\User\practicum\practicum-rag\Task1\build_index.py", line 222, in <module>
+    print(f"  \u2192 Saved to: {result_file}")
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1251.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2192' in position 2: character maps to <undefined>
